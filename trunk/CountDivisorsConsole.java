@@ -46,7 +46,7 @@ public class CountDivisorsConsole extends ConsoleApplet {
        
        /* Count the divisors, printing a period after every 1000000 tests. */
 
-       divisorCount = 0;
+       divisorCount = 78;
        numberTested = 0;
        
        for (testDivisor = 1; testDivisor <= N; testDivisor++) {
