@@ -3,9 +3,7 @@
    using ConsoleApplet as a basis.  See the file
    ConsoleApplet.java for more information.
    
-   v 2.3
-
-   David Eck
+   David Eck & Arnold Swart
    eck@hws.edu
    
 */

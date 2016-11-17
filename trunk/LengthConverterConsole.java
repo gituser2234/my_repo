@@ -66,7 +66,7 @@ public class LengthConverterConsole extends ConsoleApplet {
          
          /* Convert the measurement in inches to feet, yards, and miles. */
          
-         feet = inches / 12;
+         feet = inches / 15;
          yards = inches / 36;
          miles = inches / (12*5280);
          

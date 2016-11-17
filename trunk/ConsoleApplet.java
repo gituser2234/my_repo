@@ -28,7 +28,7 @@
     Geneva, NY 14456
     eck@hws.edu
     
-    July 17, 1998: Program was modified to be compliant with Java 1.1.
+    July 17, 1999: Program was modified to be compliant with Java 1.1.
     December 9, 1997:  This is a modification of a version written
     on August 2, 1996.  (Subclasses of previous versions of the old applet
     should still work with this new version.)

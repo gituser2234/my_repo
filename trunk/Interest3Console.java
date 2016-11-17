@@ -43,7 +43,7 @@ public class Interest3Console extends ConsoleApplet {
        int years;  // Counts the number of years that have passed.
        
        years = 0;
-       while (years < 5) {
+       while (years < 7) {
           double interest;  // Interest for this year.
           interest = principal * rate;
           principal = principal + interest;   // Add interest to principal.

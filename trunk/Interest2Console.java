@@ -2,6 +2,8 @@
 /* Simulation of console-I/O program Interest2,
    using ConsoleApplet as a basis.  See the file
    ConsoleApplet.java for more information.
+
+   Should be upgraded soon.
    
    v6.44  
  

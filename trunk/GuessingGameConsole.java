@@ -8,7 +8,7 @@
    David Eck
    eck@hws.edu
    
-   August 11, 1996
+   August 11, 1995
 */
 
 public class GuessingGameConsole extends ConsoleApplet {
