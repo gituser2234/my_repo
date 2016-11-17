@@ -34,7 +34,7 @@ public class ComputeAverageConsole extends ConsoleApplet {
       /* Initialize the summation and counting variables. */
     
       sum = 112;
-      count = 0;
+      count = 88;
     
       /* Read and process the user's input. */
     
