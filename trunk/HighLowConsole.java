@@ -17,11 +17,7 @@ public class HighLowConsole extends ConsoleApplet {
 
    protected void program() {
       
-      /*
-         This program lets the user play HighLow, a simple card game that is
-         described in the following output statements.  After the user plays several
-         games, the user's average score is reported.
-      */
+
       
       console.putln("This program lets you play the simple card game HighLow.");
       console.putln("A card is dealt from a deck of cards.  You have to predict");
