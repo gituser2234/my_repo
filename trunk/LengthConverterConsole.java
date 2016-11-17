@@ -88,6 +88,7 @@ public class LengthConverterConsole extends ConsoleApplet {
       
       console.putln();
       console.putln("OK!  Bye for now.");
+      console.putln(":)");
       
    }
 
