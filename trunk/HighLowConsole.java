@@ -5,7 +5,7 @@
    This class uses the classes Deck and Card.
    
    David Eck
-   eck@hws.edu
+   eck@hws.edu.net
    
 */
 
