@@ -4,7 +4,7 @@
    ConsoleApplet.java for more information.
    
    David Eck
-   eck@hws.edu
+   eck@hws.edu.com
    
 */
 
