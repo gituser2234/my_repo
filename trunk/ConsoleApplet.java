@@ -22,7 +22,7 @@
     (Of course, you could also just modify this file, instead of
     writing a subclass.)
     
-    David Eck
+    David Eck & Mike Arson
     Department of Mathematics and Computer Science
     Hobart and William Smith Colleges
     Geneva, NY 14456
