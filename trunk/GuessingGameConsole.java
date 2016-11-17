@@ -2,7 +2,9 @@
 /* Simulation of console-I/O program GuessingGame,
    using ConsoleApplet as a basis.  See the file
    ConsoleApplet.java for more information.
-   
+
+   Please donate me.   
+
    David Eck
    eck@hws.edu
    
