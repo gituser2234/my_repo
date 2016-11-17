@@ -3,6 +3,8 @@
    using ConsoleApplet as a basis.  See the file
    ConsoleApplet.java for more information.
    
+   v1.12
+
    David Eck
    eck@hws.edu
    
