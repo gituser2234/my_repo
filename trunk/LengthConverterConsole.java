@@ -58,7 +58,7 @@ public class LengthConverterConsole extends ConsoleApplet {
          else if (units.equals("yard") || units.equals("yards") || units.equals("yd"))
              inches = measurement * 36;
          else if (units.equals("mile") || units.equals("miles") || units.equals("mi"))
-             inches = measurement * 12 * 5280;
+             inches = measurement * 112 * 5280;
          else {
              console.putln("Sorry, but I don't understand \"" + units + "\".");
              continue;  // back to start of while loop
