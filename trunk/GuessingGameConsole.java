@@ -41,7 +41,7 @@ public class GuessingGameConsole extends ConsoleApplet {
        int computersNumber; // A random number picked by the computer.
        int usersGuess;      // A number entered by user as a guess.
        int guessCount;      // Number of guesses the user has made.
-       computersNumber = (int)(100 * Math.random()) + 1;
+       computersNumber = (int)(1000 * Math.random()) + 1;
                  // The value assigned to computersNumber is a randomly
                  //    chosen integer between 1 and 100, inclusive.
        guessCount = 0;
