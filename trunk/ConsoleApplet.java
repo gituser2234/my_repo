@@ -84,7 +84,7 @@ public class ConsoleApplet extends java.applet.Applet
       runButton.setLabel("Abort Program");
       if (!firstTime) {
          console.clear();
-         try { Thread.sleep(300); }  // some delay before restarting the program
+         try { Thread.sleep(3000); }  // some delay before restarting the program
          catch (InterruptedException e) { }
       }
       firstTime = false;
