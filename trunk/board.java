@@ -23,7 +23,7 @@ public class Board extends JPanel implements ActionListener {
     private final int DOT_SIZE = 10;
     private final int ALL_DOTS = 9000;
     private final int RAND_POS = 290;
-    private final int DELAY = 140;
+    private final int DELAY = 1400;
 
     private final int x[] = new int[ALL_DOTS];
     private final int y[] = new int[ALL_DOTS];
